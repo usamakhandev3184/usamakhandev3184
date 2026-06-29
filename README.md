@@ -49,17 +49,12 @@ I am a results-driven **Full Stack Developer** specializing in engineering highl
 ## 📈 Dev Performance Statistics
 
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=usamakhandev3184&show_icons=true&theme=tokyonight&count_private=true" alt="Usama's GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamakhandev3184&layout=compact&theme=tokyonight" alt="Top Languages Map" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak Tracker" />
-</p>
-
----
-
-## 🔗 Connect With Me
 
 <p align="center">
   <!-- Email Badge -->
@@ -67,10 +62,16 @@ I am a results-driven **Full Stack Developer** specializing in engineering highl
     <img src="https://img.shields.io/badge/Email-USAMAMAJIDPST%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <!-- LinkedIn Badge (Working Link) -->
+  <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/usama-khan-full-stack-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-USAMA%20KHAN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  <!-- Stable Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=usamakhandev3184&color=blue&style=flat-square" alt="Visitor Count" />
+</p>
 </p>
 
 <p align="center">
