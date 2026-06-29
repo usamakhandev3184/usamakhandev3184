@@ -74,9 +74,6 @@ I am a results-driven **Full Stack Developer** specializing in engineering highl
 </p>
 </p>
 
-<p align="center">
-  <!-- Fixed Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/usama-khan-full-stack-developer/count.svg" alt="Visitor Count" />
-</p>
+
   <sub>Visitor Count: <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Metric Counter" /></sub>
 </p>
