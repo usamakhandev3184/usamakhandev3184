@@ -49,8 +49,8 @@ I am a results-driven **Full Stack Developer** specializing in engineering highl
 ## 📈 Dev Performance Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Usama's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages Map" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usamakhandev3184&show_icons=true&theme=tokyonight&count_private=true" alt="Usama's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamakhandev3184&layout=compact&theme=tokyonight" alt="Top Languages Map" width="48%" />
 </p>
 
 <p align="center">
@@ -62,14 +62,20 @@ I am a results-driven **Full Stack Developer** specializing in engineering highl
 ## 🔗 Connect With Me
 
 <p align="center">
+  <!-- Email Badge -->
   <a href="mailto:usamamajidpst@gmail.com">
-    <img src="https://img.shields.io/badge/Email-usamamajidpst%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct" />
+    <img src="https://img.shields.io/badge/Email-USAMAMAJIDPST%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/usama-khan-full-stack-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Usama%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  
+  <!-- LinkedIn Badge (Working Link) -->
+  <a href="https://www.linkedin.com/in/usama-khan-full-stack-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-USAMA%20KHAN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
+  <!-- Fixed Visitor Counter -->
+  <img src="https://profile-counter.glitch.me/usama-khan-full-stack-developer/count.svg" alt="Visitor Count" />
+</p>
   <sub>Visitor Count: <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Metric Counter" /></sub>
 </p>
