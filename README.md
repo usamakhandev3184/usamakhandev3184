@@ -65,7 +65,7 @@ I am a results-driven **Full Stack Developer** specializing in engineering highl
   <a href="mailto:usamamajidpst@gmail.com">
     <img src="https://img.shields.io/badge/Email-usamamajidpst%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/usama-khan-full-stack-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-Usama%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
