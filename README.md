@@ -1,49 +1,75 @@
-## Hi, I'm Usama Khan 👋
+# Hello World, I'm Usama Khan 👋
 
-I'm a Frontend & Full-Stack Developer from Abbottabad, Pakistan.
-I build responsive, clean web apps using React.js, Node.js, and MongoDB.
-
----
-
-### 🔭 Currently Working On
-- Building websites using HTML, CSS, JavaScript, and React
-- Focusing on simple, responsive, and easy-to-use interfaces
-
-### 🤝 Looking to Collaborate On
-- Frontend projects where I can work with others
-- Projects that involve React, UI design, or component-based architecture
-
-### 🌱 Currently Learning
-- Advanced JavaScript and React patterns
-- Better structured and more efficient React applications
-- UI/UX design using Figma
-
-### 💬 Ask Me About
-- HTML, CSS, JavaScript
-- WordPress & basic UI design
-- React.js basics and component structure
-
-### ⚡ Fun Fact
-- I've worked in social media content creation — so I pay close attention
-  to how things look and how users interact with them.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&width=435&lines=Full+Stack+Engineer;MERN+Stack+Specialist;Laravel+%26+PHP+Developer;Technical+SEO+Architect" alt="Typing Animation" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+I am a results-driven **Full Stack Developer** specializing in engineering highly performant, scalable, and search-optimized web applications. My structural core revolves around the **MERN Stack** and the **PHP/Laravel Ecosystem**. I love bridging clean, maintainable backend infrastructure with fluid, highly accessible user interfaces.
+
+*   💻 **Current Focus:** Optimizing enterprise workflows, headless CMS architectures, and Next.js applications.
+*   🌍 **Remote Collaboration:** Available for software engineering roles and freelance contracts worldwide (USA, UK, CA, EU, AU).
+*   🎯 **Open Source Goals:** Active contributor to utility libraries, developer tooling setups, and modern boilerplate architectures.
+*   ⚡ **Fun Fact:** I design web applications with a built-in technical SEO optimization mindset—because stellar code should be discoverable code.
 
 ---
 
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/usama-khan-2b075634a/)
-- 📧 usamamajidpst@gmail.com
+## 🛠️ Tech Stack & Ecosystem
+
+### Frontend Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Content Systems & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/wordpress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+## 📈 Dev Performance Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Usama's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages Map" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak Tracker" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:usamamajidpst@gmail.com">
+    <img src="https://img.shields.io/badge/Email-usamamajidpst%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Usama%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Visitor Count: <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Metric Counter" /></sub>
+</p>
