@@ -10,10 +10,10 @@
 
 I am a results-driven **Full Stack Developer** specializing in engineering highly performant, scalable, and search-optimized web applications. My structural core revolves around the **MERN Stack** and the **PHP/Laravel Ecosystem**. I love bridging clean, maintainable backend infrastructure with fluid, highly accessible user interfaces.
 
-*   💻 **Current Focus:** Optimizing enterprise workflows, headless CMS architectures, and Next.js applications.
-*   🌍 **Remote Collaboration:** Available for software engineering roles and freelance contracts worldwide (USA, UK, CA, EU, AU).
-*   🎯 **Open Source Goals:** Active contributor to utility libraries, developer tooling setups, and modern boilerplate architectures.
-*   ⚡ **Fun Fact:** I design web applications with a built-in technical SEO optimization mindset—because stellar code should be discoverable code.
+*  💻 **Current Focus:** Optimizing enterprise workflows, headless CMS architectures, and Next.js applications.
+*  🌍 **Remote Collaboration:** Available for software engineering roles and freelance contracts worldwide (USA, UK, CA, EU, AU).
+*  🎯 **Open Source Goals:** Active contributor to utility libraries, developer tooling setups, and modern boilerplate architectures.
+*  ⚡ **Fun Fact:** I design web applications with a built-in technical SEO optimization mindset—because stellar code should be discoverable code.
 
 ---
 
@@ -71,9 +71,4 @@ I am a results-driven **Full Stack Developer** specializing in engineering highl
 <p align="center">
   <!-- Premium Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=usamakhandev3184&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-</p>
-
-
-  <sub>Visitor Count: <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Metric Counter" /></sub>
 </p>
