@@ -49,11 +49,11 @@ I am a results-driven **Full Stack Developer** specializing in engineering highl
 ## 📈 Dev Performance Statistics
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=usamakhandev3184&show_icons=true&theme=tokyonight&count_private=true" alt="Usama's GitHub Stats" width="48%" />
+  <!-- Fast Loading GitHub Stats Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=usamakhandev3184&show_icons=true&theme=tokyonight&count_private=true" alt="Usama's GitHub Stats" width="48%" />
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamakhandev3184&layout=compact&theme=tokyonight" alt="Top Languages Map" width="48%" />
+  <!-- Fast Loading Top Languages Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usamakhandev3184&layout=compact&theme=tokyonight" alt="Top Languages Map" width="48%" />
 </p>
 
 <p align="center">
@@ -69,8 +69,8 @@ I am a results-driven **Full Stack Developer** specializing in engineering highl
 </p>
 
 <p align="center">
-  <!-- Stable Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=usamakhandev3184&color=blue&style=flat-square" alt="Visitor Count" />
+  <!-- Premium Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=usamakhandev3184&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 </p>
 
